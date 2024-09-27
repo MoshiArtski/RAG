@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LinkedIn Profile Summarizer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+        #container {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        input, button {
+            padding: 10px;
+            margin: 10px 0;
+            width: 100%;
+        }
+        button {
+            background-color: #28a745;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+        .output {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div id="container">
+    <h1>LinkedIn Profile Summarizer</h1>
+    <input type="text" id="name-input" placeholder="Enter a name" required>
+    <button id="summarize-btn">Summarize</button>
+
+    <div id="output" class="output">
+        <h3 id="summary"></h3>
+        <p><strong>Interesting Fact 1:</strong> <span id="fact1"></span></p>
+        <p><strong>Interesting Fact 2:</strong> <span id="fact2"></span></p>
+    </div>
+</div>
+
+<script>
+    document.getElementById('summarize-btn').addEventListener('click', function() {
+        const name = document.getElementById('name-input').value;
+        fetch('/summarize', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ name })
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.error) {
+                alert(data.error);
+            } else {
+                document.getElementById('summary').innerText = data.summary;
+                document.getElementById('fact1').innerText = data.interesting_fact_1;
+                document.getElementById('fact2').innerText = data.interesting_fact_2;
+            }
+        })
+        .catch(error => {
+            alert('Error: ' + error);
+        });
+    });
+</script>
+
+</body>
+</html>

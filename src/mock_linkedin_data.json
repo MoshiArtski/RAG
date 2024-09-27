@@ -1,0 +1,224 @@
+{
+    "public_identifier": "mohamed-ahmed-elbeskeri-phd-64a52b104",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/mohamed-ahmed-elbeskeri-phd-64a52b104/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240926%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240926T142256Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6efaea67bc5b2a14a9ebe2a7e257bbff20536e39845bec2f106c69693636d540",
+    "background_cover_image_url": null,
+    "first_name": "Mohamed",
+    "last_name": "Ahmed Elbeskeri, PhD",
+    "full_name": "Mohamed Ahmed Elbeskeri, PhD",
+    "follower_count": 47,
+    "occupation": "Analyst Consultant at Ricardo plc",
+    "headline": "--",
+    "summary": null,
+    "country": "UK",
+    "country_full_name": "United Kingdom",
+    "city": "Manchester",
+    "state": "England",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Ricardo plc",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ricardo-plc",
+            "company_facebook_profile_url": null,
+            "title": "Analyst Consultant",
+            "description": "\u2022\tAssisted in the development of a comprehensive waste strategy for a large UK county, incorporating techno-economic assessments, sensitivity analyses, and consideration of both quantitative and qualitative factors.\n\u2022\tConducted audits for the Renewable Heat Incentive (RHI) scheme, assessing compliance of biomass heating systems throughout the UK and documenting audit findings.\n\u2022\tServed as a technical assessor for the Salix Phase 3B Public Sector Decarbonisation Scheme (PSDS), reviewing grant applications for low carbon heating systems and energy efficiency measures.\n\u2022\tInvolved in the CHPQA Program, conducting technical assessments and compliance verification for CHP schemes registered under the program.\n\u2022\tContributed to the BIOCCUS project, an innovative greenhouse gas removal technology, assisting in the development of its monitoring, reporting, and verification methodology.\n\u2022\tConducted a feasibility study for the Scottish Government on Negative Emission Technologies (NET), analysing potential technologies for Scotland's net-zero transition.\n\u2022\tWorked on the Acorn Hydrogen Project, conducting extensive technical and financial analysis of hydrogen distribution and use in various sectors.\n\u2022\tPrepared an in-depth report on the potential of Carbon Capture, Utilisation, and Storage (CCUS) in the UK waste sector for Green Recovery Projects Ltd., focusing on the decarbonisation of Energy-from-Waste (EfW) facilities.",
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/ricardo-plc/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240926%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240926T142258Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=6ba6e23b981c43b1af2126295223a98d9fa4a1aac6d5d795d6d1302b8c90fb0e"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2020
+            },
+            "company": "University of Nottingham",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/university-of-nottingham",
+            "company_facebook_profile_url": null,
+            "title": "Demonstrator",
+            "description": "\u2022Support lecturer with delivery of process simulation module.\n\u2022 Assisted students with inquiries regarding module curriculum and ensured smooth running of the lessons and tutorials.",
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/university-of-nottingham/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240926%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240926T142258Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=a3ba45c10c1132339fec36a5ce11c02ba18118db042749dcf24c6713cbc0b699"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2022
+            },
+            "field_of_study": "Chemical Engineering",
+            "degree_name": "Doctor of Philosophy - PhD",
+            "school": "University of Nottingham",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/university-of-nottingham",
+            "school_facebook_profile_url": null,
+            "description": "\u2022 Conducting a techno-economic and environmental assessment of carbon capture and utilisation\n(CCU) systems implementing carbon captured from the cement production process. The CCU\nsystems incorporated was dry-,bi- and tri-reforming based production of dimethylether and\nolefins. Optimisation of the processes based upon maximising process profitability and based\nupon minimising environmental impact was completed. To conclude the study models of the\ntwo systems were simulated using Aspen Plus and COM interface to apply non-linear programming.",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/university-of-nottingham/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240926%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240926T142258Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=a3ba45c10c1132339fec36a5ce11c02ba18118db042749dcf24c6713cbc0b699",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2018
+            },
+            "field_of_study": "Advanced Chemical Engineering",
+            "degree_name": "Master's degree",
+            "school": "The University of Manchester",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/166652/",
+            "school_facebook_profile_url": null,
+            "description": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/university-of-manchester/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240926%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240926T142258Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=d2f346130488ef332770f634e834a358c2ef5d4fc57ce63240fb81697032b502",
+            "grade": "Distinction",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2017
+            },
+            "field_of_study": "Chemical Engineering",
+            "degree_name": "Bachelor of Engineering - BE",
+            "school": "The University of Manchester",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/166652/",
+            "school_facebook_profile_url": null,
+            "description": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/university-of-manchester/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240926%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240926T142258Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=d2f346130488ef332770f634e834a358c2ef5d4fc57ce63240fb81697032b502",
+            "grade": "1st class",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2014
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Loreto Sixth Form College",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/35618057/",
+            "school_facebook_profile_url": null,
+            "description": "\u2022\tA-levels: Chemistry A*, Mathematics A*, Physics A\n\u2022\tAs-level: Computation A.",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/loreto-sixth-form-college/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240926%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240926T142258Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=10321258883d77e3895a40995dc7735daef588c13a0d6136e548534f34007ca6",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Stretford Grammar School",
+            "school_linkedin_profile_url": null,
+            "school_facebook_profile_url": null,
+            "description": "GCSEs       \n\u2022\t11 GCSEs (9 A*, 2 A) including A in English, A* in Mathematics.\nOther\n\u2022\tGold Certificate in Junior Maths Challenge.",
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Arabic"
+    ],
+    "languages_and_proficiencies": [
+        {
+            "name": "Arabic",
+            "proficiency": "None"
+        }
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 47,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/D4E07AQHeQnfUSGxtgA/group-logo_image-shrink_400x400/0/1663766012699?e=1712667600&v=beta&t=IUj1--KcQT-8V5fMz3KSHWGYFZEFg14ez0zdreU9n-c",
+            "name": "Ofgem Policy & Strategy Recruitment Network",
+            "url": "https://www.linkedin.com/groups/12713509"
+        }
+    ],
+    "skills": [
+        "Qualitative Analysis",
+        "Datasets",
+        "Analytical Skills",
+        "Unreal Engine",
+        "C++",
+        "Carbon Capture",
+        "Environmental Engineering",
+        "Chemical Engineering",
+        "Life Cycle Assessment",
+        "Python (Programming Language)",
+        "Cement",
+        "Aspen HYSYS",
+        "Aspen Plus",
+        "MATLAB",
+        "VBA Programming",
+        "VBA Excel",
+        "Microsoft Excel"
+    ],
+    "inferred_salary": {
+        "min": null,
+        "max": null
+    },
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": {
+        "github_profile_id": null,
+        "twitter_profile_id": null,
+        "facebook_profile_id": null
+    },
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}
